@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Unit4Lab1</string>
+    <string name="hello_world_text">0</string>
+    <string name="toast_text">TOAST</string>
+    <string name="count_text">COUNT</string>
+    <string name="random_text">RANDOM</string>
+    <string name="random_heading">Here is a number between 0 and %1d</string>
+</resources>
